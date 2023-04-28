@@ -17,7 +17,6 @@ public class Main {
         System.exit(0);
     }
 
-
     public static int reword(int rank1, int rank2) {
         int money = 0;
         if(rank1 != 0) {
