@@ -9,4 +9,5 @@ public class Main {
         long n = Long.parseLong(br.readLine());
         System.out.printf("%d\n3",(n*(n-1)*(n-2))/6);
     }
+
 }
